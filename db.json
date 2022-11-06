@@ -1,0 +1,52 @@
+{
+  "customers": [
+    {
+      "id": 1,
+      "name": "Randy Caballero",
+      "username": "caballerorandy",
+      "phone": 8325465983,
+      "email": "caballerorandy6@gmail.com",
+      "website": "rcweb.com"
+    },
+    {
+      "id": 2,
+      "name": "Malcolm Caballero",
+      "username": "malcolmamaru",
+      "phone": 1111111111,
+      "email": "malcolmamaru@gmail.com",
+      "website": "malcolmweb.com"
+    },
+    {
+      "id": 3,
+      "name": "Tania Rodriguez",
+      "username": "taniavictoria",
+      "phone": 2222222222,
+      "email": "taniavictoria@gmail.com",
+      "website": "taniamweb.com"
+    },
+    {
+      "id": 4,
+      "name": "Jenny Rodriguez",
+      "username": "jennyLizeth",
+      "phone": 3333333333,
+      "email": "jenny@gmail.com",
+      "website": "jennymweb.com"
+    },
+    {
+      "id": 5,
+      "name": "Maria Rodriguez",
+      "username": "maria",
+      "phone": 4444444444,
+      "email": "maria@gmail.com",
+      "website": "mariamweb.com"
+    },
+    {
+      "name": "Lizeth",
+      "username": "lizeth",
+      "phone": "8326295892",
+      "email": "lizeth@gmail.com",
+      "website": "lizeth.com",
+      "id": 6
+    }
+  ]
+}
