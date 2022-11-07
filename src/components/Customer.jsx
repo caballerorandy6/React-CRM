@@ -28,7 +28,7 @@ function Customer({ customer }) {
         <p>{website}</p>
       </td>
 
-      <td className="flex justify-around mt-12">
+      <td className="flex flex-col sm:flex-row justify-around mt-12">
         <button
           type="button"
           className="text-blue-600 hover:text-blue-700 uppercase font-bold text-xs"

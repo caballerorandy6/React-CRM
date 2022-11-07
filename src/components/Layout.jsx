@@ -8,7 +8,7 @@ function Layout() {
 
   return (
     <div className="relative">
-      <nav className="fixed top-0 left-0 right-0 opacity-95 flex items-center justify-evenly text-white font-bold uppercase bg-green-800 p-6 ">
+      <nav className="fixed top-0 left-0 right-0 opacity-95 flex flex-col sm:flex-row items-center justify-evenly text-white font-bold uppercase bg-green-800 p-6 ">
         <Link className="text-2xl hover:text-green-400" to="/">
           React CRM
         </Link>
